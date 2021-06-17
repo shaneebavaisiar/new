@@ -11,7 +11,7 @@
 
 }
 body{
-    /* background-color: lightblue; */
+    background-color: lightblue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,9 +23,9 @@ body{
     max-width: 1000px;
     min-height: 1000px;
     background-color: #fff;
-    /* margin: 50px; */
+    margin: 50px;
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 1.05fr 2fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0,0, 1);
 }
 .container .left_side{
@@ -145,8 +145,8 @@ body{
 
 .container .right_side{
     position: relative;
-    /* background-color: rgb(254, 255, 255); */
-    background-color: rgb(241, 246, 247);
+    background-color: rgb(254, 255, 255);
+    /* background-color: rgb(241, 246, 247); */
     padding: 40px;
 
 }
