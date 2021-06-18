@@ -25,7 +25,7 @@ body{
     background-color: #fff;
     /* margin: 50px; */
     display: grid;
-    grid-template-columns: 2.3fr 4fr;
+    grid-template-columns: 1fr 3fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0,0, 1);
 }
 .container .left_side{
@@ -72,7 +72,7 @@ body{
     font-weight: 300;
 }
 .contact_info{
-    padding-top: 40px;
+    /* padding-top: 40px; */
 
 }
 .title{
@@ -80,7 +80,7 @@ body{
     text-transform: uppercase;
     font-weight: 1px;
     letter-spacing: 1px;
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 .contact_info ul{
     position: relative;
@@ -88,7 +88,7 @@ body{
 .contact_info ul li{
     position: relative;
     list-style: none;
-    margin: 10px 0;
+    /* margin: 10px 0; */
     cursor: pointer;
 }
 .contact_info ul li .icon{
