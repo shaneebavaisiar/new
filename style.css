@@ -9,13 +9,14 @@
 
 
 
+
 }
 body{
     background-color: lightblue;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100;
+    max-height: 1588px;
 }
 .container{
     position: relative;
@@ -25,7 +26,7 @@ body{
     background-color: #fff;
     /* margin: 50px; */
     display: grid;
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 1.03fr 3fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0,0, 1);
 }
 .container .left_side{
