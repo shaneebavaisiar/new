@@ -29,6 +29,7 @@ body{
     display: grid;
     grid-template-columns: 1.5fr 3fr;
     box-shadow: 0 35px 55px rgba(0, 0, 0,0, 1);
+    max-height: 1588px;
 }
 .container .left_side{
     position: relative;
